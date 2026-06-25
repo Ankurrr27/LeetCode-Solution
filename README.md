@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## String
+|  |
+| ------- |
+| [0065-valid-number](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0065-valid-number) |
 <!---LeetCode Topics End-->
