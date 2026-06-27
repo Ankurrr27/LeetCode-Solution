@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0065-valid-number](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0065-valid-number) |
+| [0087-scramble-string](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0087-scramble-string) |
 ## Array
 |  |
 | ------- |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0086-partition-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0087-scramble-string](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0087-scramble-string) |
 <!---LeetCode Topics End-->
