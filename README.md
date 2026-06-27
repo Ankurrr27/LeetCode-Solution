@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -58,8 +59,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0087-scramble-string](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0087-scramble-string) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
