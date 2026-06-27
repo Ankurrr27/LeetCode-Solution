@@ -49,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0086-partition-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
