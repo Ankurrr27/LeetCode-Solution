@@ -20,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0065-valid-number](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0065-valid-number) |
 | [0087-scramble-string](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0087-scramble-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Array
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
