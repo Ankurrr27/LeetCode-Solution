@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [1032-stream-of-characters](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1032-stream-of-characters) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0063-unique-paths-ii) |
 | [0087-scramble-string](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0087-scramble-string) |
 ## Sorting
 |  |
@@ -146,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
