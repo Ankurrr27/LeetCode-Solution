@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0063-unique-paths-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [1032-stream-of-characters](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1032-stream-of-characters) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
 | [0087-scramble-string](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0087-scramble-string) |
 ## Sorting
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
 | [1476-subrectangle-queries](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1476-subrectangle-queries) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
