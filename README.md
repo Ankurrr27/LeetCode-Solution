@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0146-lru-cache](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0146-lru-cache) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0355-design-twitter](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0355-design-twitter) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0460-lfu-cache) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0086-partition-list](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0086-partition-list) |
 | [0146-lru-cache](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0146-lru-cache) |
+| [0355-design-twitter](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0460-lfu-cache) |
 ## Two Pointers
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0146-lru-cache) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0355-design-twitter](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0355-design-twitter) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0460-lfu-cache) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0355-design-twitter) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Simulation
 |  |
