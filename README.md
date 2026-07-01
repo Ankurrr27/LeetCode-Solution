@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0086-partition-list) |
+| [0092-reverse-linked-list-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0092-reverse-linked-list-ii) |
 | [0146-lru-cache](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0432-all-oone-data-structure) |
