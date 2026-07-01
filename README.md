@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Breadth-First Search
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## String
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
 | [0087-scramble-string](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0095-unique-binary-search-trees-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0089-gray-code) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0095-unique-binary-search-trees-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -188,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2043-simple-bank-system](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2043-simple-bank-system) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
