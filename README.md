@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0460-lfu-cache) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2043-simple-bank-system](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2043-simple-bank-system) |
 | [2080-range-frequency-queries](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2080-range-frequency-queries) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0089-gray-code) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Backtracking
 |  |
 | ------- |
