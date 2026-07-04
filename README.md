@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0089-gray-code) |
 | [0263-ugly-number](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0263-ugly-number) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0728-self-dividing-numbers](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Backtracking
 |  |
