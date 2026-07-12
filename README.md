@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0063-unique-paths-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [2080-range-frequency-queries](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2080-range-frequency-queries) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
