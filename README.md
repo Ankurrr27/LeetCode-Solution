@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0009-palindrome-number) |
 | [0089-gray-code](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0096-unique-binary-search-trees) |
 | [0263-ugly-number](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0263-ugly-number) |
