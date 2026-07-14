@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0008-string-to-integer-atoi) |
 | [0065-valid-number](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0065-valid-number) |
 | [0087-scramble-string](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0091-decode-ways) |
