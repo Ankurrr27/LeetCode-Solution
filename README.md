@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-subrectangle-queries](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1476-subrectangle-queries) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2043-simple-bank-system](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2043-simple-bank-system) |
 | [2080-range-frequency-queries](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2080-range-frequency-queries) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0728-self-dividing-numbers](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
