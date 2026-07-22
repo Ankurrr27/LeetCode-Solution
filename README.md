@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0113-path-sum-ii) |
 | [0872-leaf-similar-trees](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0872-leaf-similar-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0113-path-sum-ii) |
 | [0872-leaf-similar-trees](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0872-leaf-similar-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0095-unique-binary-search-trees-ii) |
+| [0113-path-sum-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0113-path-sum-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0113-path-sum-ii) |
 | [0872-leaf-similar-trees](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0872-leaf-similar-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
