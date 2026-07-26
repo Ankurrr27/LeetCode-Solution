@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0152-maximum-product-subarray) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0739-daily-temperatures) |
 | [1032-stream-of-characters](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1032-stream-of-characters) |
 | [1260-shift-2d-grid](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1260-shift-2d-grid) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0149-max-points-on-a-line) |
 | [0263-ugly-number](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0263-ugly-number) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
