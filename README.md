@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0152-maximum-product-subarray) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0486-predict-the-winner](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0739-daily-temperatures) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0152-maximum-product-subarray) |
+| [0486-predict-the-winner](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0149-max-points-on-a-line) |
 | [0263-ugly-number](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0263-ugly-number) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0486-predict-the-winner](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0010-regular-expression-matching) |
+| [0486-predict-the-winner](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0486-predict-the-winner) |
 ## Number Theory
 |  |
 | ------- |
@@ -439,4 +443,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
