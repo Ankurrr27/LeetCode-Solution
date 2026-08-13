@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2043-simple-bank-system](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2043-simple-bank-system) |
 | [2080-range-frequency-queries](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2080-range-frequency-queries) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2080-range-frequency-queries](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2080-range-frequency-queries) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Randomized
 |  |
 | ------- |
