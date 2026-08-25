@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [4024-nearest-available-drone](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/4024-nearest-available-drone) |
 ## Hash Table
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [4024-nearest-available-drone](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/4024-nearest-available-drone) |
 ## Linked List
 |  |
 | ------- |
