@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [4024-nearest-available-drone](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/4024-nearest-available-drone) |
+| [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Hash Table
 |  |
 | ------- |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Design
 |  |
 | ------- |
