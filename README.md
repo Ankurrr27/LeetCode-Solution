@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0872-leaf-similar-trees](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0872-leaf-similar-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [4015-weighted-sum-of-a-tree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/4015-weighted-sum-of-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/4014-minimum-total-price-after-applying-discounts) |
+| [4015-weighted-sum-of-a-tree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/4015-weighted-sum-of-a-tree) |
 | [4024-nearest-available-drone](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/4024-nearest-available-drone) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Hash Table
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3310-remove-methods-from-project) |
+| [4015-weighted-sum-of-a-tree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/4015-weighted-sum-of-a-tree) |
 ## Recursion
 |  |
 | ------- |
