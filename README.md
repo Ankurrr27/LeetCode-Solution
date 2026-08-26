@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4015-weighted-sum-of-a-tree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/4015-weighted-sum-of-a-tree) |
+| [4020-elevator-requests-i](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/4020-elevator-requests-i) |
 | [4024-nearest-available-drone](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/4024-nearest-available-drone) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Hash Table
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1260-shift-2d-grid) |
 | [2043-simple-bank-system](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2043-simple-bank-system) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [4020-elevator-requests-i](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/4020-elevator-requests-i) |
 ## Binary Search Tree
 |  |
 | ------- |
