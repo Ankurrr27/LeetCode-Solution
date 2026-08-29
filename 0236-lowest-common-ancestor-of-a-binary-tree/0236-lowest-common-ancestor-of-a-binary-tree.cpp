@@ -9,30 +9,34 @@
  */
 class Solution {
 public:
-    bool path(TreeNode* node,vector<TreeNode*>& route, TreeNode* target){
-        if(node==NULL) return false;
+    TreeNode* lowestCommonAncestor(TreeNode* root,
+                                   TreeNode* p,
+                                   TreeNode* q) {
 
-        route.push_back(node);
+        // Base case:
+        // If root is NULL, or root itself is p/q,
+        // return root.
+        if (root == NULL || root == p || root == q)
+            return root;
 
-        if(node==target) return true;
+        // Search for p/q in left subtree
+        TreeNode* left = lowestCommonAncestor(root->left, p, q);
 
-        if(path(node->left,route,target) || path(node->right,route,target)) return true;
+        // Search for p/q in right subtree
+        TreeNode* right = lowestCommonAncestor(root->right, p, q);
 
-        route.pop_back();
-        return false;
-    }
-    TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        vector<TreeNode*> Pathp;
-        vector<TreeNode*> Pathq;
-        TreeNode* ans = root;
-        path(root,Pathp,p);
-        path(root,Pathq,q);
+        // Nothing found on left → answer is on right
+        if (left == NULL)
+            return right;
 
-        int n = min(Pathp.size(), Pathq.size());
-        for(int i=0;i<n;i++){
-            if(Pathp[i]==Pathq[i]) ans=Pathp[i];
-        }
-        return ans;
+        // Nothing found on right → answer is on left
+        else if (right == NULL)
+            return left;
+
+        // Both sides found something →
+        // p and q are on opposite sides,
+        // so current root is their LCA
+        else
+            return root;
     }
 };
-
