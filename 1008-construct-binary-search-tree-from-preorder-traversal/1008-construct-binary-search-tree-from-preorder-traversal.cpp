@@ -12,31 +12,35 @@
 class Solution {
 public:
 
-    TreeNode* bstFromPreorder(vector<int>& preorder) {
+    TreeNode* bstFromPreorder(vector<int>& A) {
 
-        // First element of preorder is always the root
-        TreeNode* root = new TreeNode(preorder[0]);
+        // i keeps track of the current element in preorder
+        int i = 0;
 
-        int i = 1;
+        // Initially, there is no upper limit
+        // so we can use the maximum possible integer.
+        return build(A, i, INT_MAX);
+    }
 
-        // Find the first element greater than root
-        // Everything before it belongs to the left subtree
-        while (i < preorder.size() && preorder[i] < root->val) {
-            i++;
-        }
+    TreeNode* build(vector<int>& A, int& i, int bound) {
 
-        // Elements before i are the left subtree
-        vector<int> left(preorder.begin() + 1, preorder.begin() + i);
+        // If all elements are processed OR
+        // the current element is greater than the allowed bound,
+        // this node cannot belong to this subtree.
+        if (i == A.size() || A[i] > bound)
+            return NULL;
 
-        // Elements from i onwards are the right subtree
-        vector<int> right(preorder.begin() + i, preorder.end());
+        // Current preorder element becomes the root
+        TreeNode* root = new TreeNode(A[i++]);
 
-        // Recursively construct left and right subtrees
-        if (!left.empty())
-            root->left = bstFromPreorder(left);
+        // Build the left subtree.
+        // Left subtree values must be smaller than root->val.
+        root->left = build(A, i, root->val);
 
-        if (!right.empty())
-            root->right = bstFromPreorder(right);
+        // Build the right subtree.
+        // Right subtree can contain values up to the
+        // current subtree's bound.
+        root->right = build(A, i, bound);
 
         return root;
     }
