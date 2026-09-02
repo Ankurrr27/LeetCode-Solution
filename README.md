@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3994-minimum-adjacent-swaps-to-partition-array](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3994-minimum-adjacent-swaps-to-partition-array) |
 | [3996-even-number-of-knight-moves](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3996-even-number-of-knight-moves) |
 | [3998-transform-binary-string-using-subsequence-sort](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3998-transform-binary-string-using-subsequence-sort) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3993-maximum-value-of-an-alternating-sequence](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3993-maximum-value-of-an-alternating-sequence) |
 | [3996-even-number-of-knight-moves](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3996-even-number-of-knight-moves) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/4010-maximize-pair-strength-using-gcd) |
