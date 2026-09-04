@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3903-smallest-stable-index-i) |
 | [3994-minimum-adjacent-swaps-to-partition-array](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3994-minimum-adjacent-swaps-to-partition-array) |
 | [3996-even-number-of-knight-moves](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3996-even-number-of-knight-moves) |
 | [3998-transform-binary-string-using-subsequence-sort](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3998-transform-binary-string-using-subsequence-sort) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3903-smallest-stable-index-i) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Enumeration
 |  |
