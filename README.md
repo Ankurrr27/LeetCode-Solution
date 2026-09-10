@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0872-leaf-similar-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 | [4015-weighted-sum-of-a-tree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/4015-weighted-sum-of-a-tree) |
 ## Breadth-First Search
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0872-leaf-similar-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## String
 |  |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0872-leaf-similar-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3310-remove-methods-from-project) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
