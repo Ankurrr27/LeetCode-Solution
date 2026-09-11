@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0149-max-points-on-a-line](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0152-maximum-product-subarray) |
+| [0200-number-of-islands](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0204-count-primes) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0486-predict-the-winner](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0486-predict-the-winner) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0547-number-of-provinces](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -540,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1476-subrectangle-queries](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1476-subrectangle-queries) |
@@ -613,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
