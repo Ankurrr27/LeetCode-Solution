@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0149-max-points-on-a-line](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0152-maximum-product-subarray) |
+| [0204-count-primes](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0204-count-primes) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0486-predict-the-winner](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0149-max-points-on-a-line) |
+| [0204-count-primes](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0263-ugly-number) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0486-predict-the-winner](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0486-predict-the-winner) |
@@ -634,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -734,4 +738,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
