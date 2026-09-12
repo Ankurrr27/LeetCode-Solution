@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0739-daily-temperatures) |
+| [0994-rotting-oranges](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1032-stream-of-characters](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1032-stream-of-characters) |
 | [1140-stone-game-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1140-stone-game-ii) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1476-subrectangle-queries](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1476-subrectangle-queries) |
