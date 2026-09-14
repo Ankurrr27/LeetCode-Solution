@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0728-self-dividing-numbers) |
+| [0836-rectangle-overlap](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0836-rectangle-overlap) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1510-stone-game-iv) |
@@ -685,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0149-max-points-on-a-line) |
+| [0836-rectangle-overlap](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0836-rectangle-overlap) |
 ## Combinatorics
 |  |
 | ------- |
