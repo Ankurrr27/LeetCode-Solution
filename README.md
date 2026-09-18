@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-stream-of-characters](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1032-stream-of-characters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2043-simple-bank-system](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2043-simple-bank-system) |
 | [2080-range-frequency-queries](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2080-range-frequency-queries) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2029-stone-game-ix) |
