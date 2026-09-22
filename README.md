@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0132-palindrome-partitioning-ii) |
+| [0140-word-break-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0140-word-break-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0940-distinct-subsequences-ii) |
 | [1032-stream-of-characters](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1032-stream-of-characters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0137-single-number-ii) |
+| [0140-word-break-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0200-number-of-islands) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0127-word-ladder) |
+| [0140-word-break-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0149-max-points-on-a-line) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0352-data-stream-as-disjoint-intervals) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0132-palindrome-partitioning-ii) |
+| [0140-word-break-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0542-01-matrix) |
@@ -487,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0126-word-ladder-ii) |
+| [0140-word-break-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0140-word-break-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
 |  |
@@ -556,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0140-word-break-ii) |
 | [1032-stream-of-characters](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1032-stream-of-characters) |
 ## Data Stream
 |  |
@@ -841,4 +847,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0207-course-schedule) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
