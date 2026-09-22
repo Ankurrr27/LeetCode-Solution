@@ -1,58 +1,43 @@
- class Solution {
+class Solution {
 public:
     int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
-        // Create a set of all words in the word list for quick lookup.
         unordered_set<string> wordSet(wordList.begin(), wordList.end());
+        if (wordSet.find(endWord) == wordSet.end()) return 0;
 
-        // If endWord is not in the word set, no valid transformation exists.
-        if (wordSet.find(endWord) == wordSet.end()) {
-            return 0;
-        }
+        unordered_set<string> beginSet{beginWord};
+        unordered_set<string> endSet{endWord};
+        unordered_set<string> visited;
+        int steps = 1;
 
-        // Use a queue to perform BFS (Breadth-First Search).
-        queue<string> wordQueue;
-        wordQueue.push(beginWord);
+        while (!beginSet.empty() && !endSet.empty()) {
+            if (beginSet.size() > endSet.size())
+                swap(beginSet, endSet);
 
-        // Distance from the beginWord (initially 1 since beginWord is counted).
-        int distance = 1;
+            unordered_set<string> nextSet;
 
-        while (!wordQueue.empty()) {
-            int levelSize = wordQueue.size();
-
-            for (int i = 0; i < levelSize; ++i) {
-                string currentWord = wordQueue.front();
-                wordQueue.pop();
-
-                // If the current word is the endWord, return the distance.
-                if (currentWord == endWord) {
-                    return distance;
-                }
-
-                // Try changing each character in the current word.
-                for (int j = 0; j < currentWord.length(); ++j) {
-                    char originalChar = currentWord[j];
-
+            for (const string& word : beginSet) {
+                string current = word;
+                for (int i = 0; i < current.size(); ++i) {
+                    char original = current[i];
                     for (char c = 'a'; c <= 'z'; ++c) {
-                        if (c == originalChar) continue; // Skip same character
+                        if (c == original) continue;
+                        current[i] = c;
 
-                        currentWord[j] = c;
-                        // If the new word is in the word set, add it to the queue.
-                        if (wordSet.find(currentWord) != wordSet.end()) {
-                            wordQueue.push(currentWord);
-                            wordSet.erase(currentWord); // Remove to prevent revisiting
+                        if (endSet.count(current)) return steps + 1;
+
+                        if (wordSet.count(current) && !visited.count(current)) {
+                            visited.insert(current);
+                            nextSet.insert(current);
                         }
                     }
-
-                    // Restore the original character.
-                    currentWord[j] = originalChar;
+                    current[i] = original;
                 }
             }
 
-            // Increment distance after processing the current level.
-            distance++;
+            beginSet = nextSet;
+            steps++;
         }
 
-        // If no transformation sequence leads to the endWord, return 0.
-        return 0;
+        return 0;        
     }
 };
