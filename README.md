@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0134-gas-station) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0132-palindrome-partitioning-ii) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0134-gas-station) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1386-cinema-seat-allocation) |
