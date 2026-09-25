@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1020-number-of-enclaves) |
+| [1096-brace-expansion-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0940-distinct-subsequences-ii) |
 | [1032-stream-of-characters](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1032-stream-of-characters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1927-sum-game) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1096-brace-expansion-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1386-cinema-seat-allocation) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0645-set-mismatch) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -498,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0140-word-break-ii) |
+| [1096-brace-expansion-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
 |  |
@@ -768,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1096-brace-expansion-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
