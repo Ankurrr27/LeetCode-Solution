@@ -515,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0137-single-number-ii) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0645-set-mismatch](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1386-cinema-seat-allocation) |
