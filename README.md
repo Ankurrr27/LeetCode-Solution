@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3994-minimum-adjacent-swaps-to-partition-array](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3994-minimum-adjacent-swaps-to-partition-array) |
 | [3996-even-number-of-knight-moves](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3996-even-number-of-knight-moves) |
 | [3998-transform-binary-string-using-subsequence-sort](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3998-transform-binary-string-using-subsequence-sort) |
+| [4007-widest-possible-fence](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/4007-widest-possible-fence) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/4014-minimum-total-price-after-applying-discounts) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [4007-widest-possible-fence](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/4007-widest-possible-fence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [4007-widest-possible-fence](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/4007-widest-possible-fence) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 | [4024-nearest-available-drone](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/4024-nearest-available-drone) |
@@ -780,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [4007-widest-possible-fence](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/4007-widest-possible-fence) |
 ## Stack
 |  |
 | ------- |
