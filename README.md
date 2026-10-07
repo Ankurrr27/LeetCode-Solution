@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0207-course-schedule) |
+| [0301-remove-invalid-parentheses](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0301-remove-invalid-parentheses) |
 | [0542-01-matrix](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0140-word-break-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0140-word-break-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
