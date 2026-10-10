@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0204-count-primes) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0165-compare-version-numbers) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
