@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3620-network-recovery-pathways) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3731-find-missing-elements) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/4014-minimum-total-price-after-applying-discounts) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3993-maximum-value-of-an-alternating-sequence](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3993-maximum-value-of-an-alternating-sequence) |
 | [3994-minimum-adjacent-swaps-to-partition-array](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3994-minimum-adjacent-swaps-to-partition-array) |
 | [3998-transform-binary-string-using-subsequence-sort](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3998-transform-binary-string-using-subsequence-sort) |
