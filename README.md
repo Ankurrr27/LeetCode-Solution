@@ -525,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3993-maximum-value-of-an-alternating-sequence](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3993-maximum-value-of-an-alternating-sequence) |
 | [3994-minimum-adjacent-swaps-to-partition-array](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3994-minimum-adjacent-swaps-to-partition-array) |
