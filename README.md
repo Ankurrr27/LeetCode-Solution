@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3904-smallest-stable-index-ii) |
 | [3994-minimum-adjacent-swaps-to-partition-array](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3994-minimum-adjacent-swaps-to-partition-array) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3886-sum-of-sortable-integers](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3886-sum-of-sortable-integers) |
 | [4007-widest-possible-fence](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/4007-widest-possible-fence) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3886-sum-of-sortable-integers) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Math
@@ -545,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3886-sum-of-sortable-integers) |
 | [3993-maximum-value-of-an-alternating-sequence](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3993-maximum-value-of-an-alternating-sequence) |
 | [3996-even-number-of-knight-moves](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3996-even-number-of-knight-moves) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/4010-maximize-pair-strength-using-gcd) |
