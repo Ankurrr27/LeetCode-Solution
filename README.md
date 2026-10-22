@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3886-sum-of-sortable-integers](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3904-smallest-stable-index-ii) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3994-minimum-adjacent-swaps-to-partition-array](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3994-minimum-adjacent-swaps-to-partition-array) |
 | [3996-even-number-of-knight-moves](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3996-even-number-of-knight-moves) |
 | [3998-transform-binary-string-using-subsequence-sort](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3998-transform-binary-string-using-subsequence-sort) |
