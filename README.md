@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1020-number-of-enclaves) |
 | [1096-brace-expansion-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1020-number-of-enclaves) |
 | [1032-stream-of-characters](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1032-stream-of-characters) |
 | [1140-stone-game-ii](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1301-number-of-paths-with-max-score) |
@@ -684,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0547-number-of-provinces](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -710,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1476-subrectangle-queries](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1476-subrectangle-queries) |
@@ -803,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0872-leaf-similar-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3310-remove-methods-from-project) |
