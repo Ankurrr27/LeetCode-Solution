@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ankurrr27/LeetCode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
